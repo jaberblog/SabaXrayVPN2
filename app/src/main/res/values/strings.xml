@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Saba Xray VPN</string>
+    <string name="header_title">SABA VPN</string>
+    <string name="header_subtitle">اتصال امن با هسته Xray</string>
+    <string name="server_label">سرور فعال</string>
+    <string name="server_name">VLESS • REALITY</string>
+    <string name="status_disconnected">قطع است</string>
+    <string name="status_connecting">در حال اتصال...</string>
+    <string name="status_connected">متصل هستید</string>
+    <string name="button_connect">اتصال</string>
+    <string name="button_disconnect">قطع اتصال</string>
+    <string name="download">دانلود</string>
+    <string name="upload">آپلود</string>
+    <string name="speed_zero">0 B/s</string>
+    <string name="footer_text">نسخه آزمایشی • Xray Core</string>
+</resources>

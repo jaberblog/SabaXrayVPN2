@@ -1,0 +1,4 @@
+This project integrates AndroidLibXrayLite (libv2ray.aar), which is distributed by the upstream project under the LGPL-3.0 license. The upstream source and license are available at:
+https://github.com/2dust/AndroidLibXrayLite
+
+The application source in this ZIP is a separate sample project. Check the upstream license and all server/provider terms before redistribution.
